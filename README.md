@@ -71,3 +71,10 @@ Feature engineering and proper preprocessing significantly improved model perfor
 - Advanced hyperparameter tuning  
 - Deployment of model for real-time prediction  
 - Dashboard creation using Power BI for business use  
+
+---
+
+## Screenshots
+ - ![ROI](ROI_Distribution.png)
+ - ![Feature Importance](Imapact_of_Engineered_features.png)
+ - ![Model Evaluation](Model_Evaluation.png)
