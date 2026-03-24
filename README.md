@@ -76,5 +76,5 @@ Feature engineering and proper preprocessing significantly improved model perfor
 
 ## Screenshots
  - ![ROI](ROI_Distribution.png)
- - ![Feature Importance](Imapact_of_Engineered_features.png)
+ - ![Feature Importance](Impact_of_Engineered_features.png)
  - ![Model Evaluation](Model_Evaluation.png)
