@@ -19,7 +19,7 @@ This project analyzes a large-scale marketing campaign dataset to understand key
 ## Tools & Technologies
 - Python (Pandas, NumPy)  
 - Data Visualization (Matplotlib, Seaborn)  
-- Machine Learning (Scikit-learn, XGBoost)  
+- Machine Learning (Scikit-learn, XGBoost, Random Forest)  
 
 ---
 
